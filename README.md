@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o Nicollas Martini 👋</h1>
 
-<!--
-**nicollasmartini/nicollasmartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🧠 Estudante de Tecnologia da Informação &emsp;|&emsp; 💻 Apaixonado por Desenvolvimento e Dados &emsp;|&emsp;
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+- 🎓 Atualmente atuando na gestão e analise de dados da empresa CASSEMS em Campo Grande, Mato Grosso do Sul.
+- 💡 Explorando projetos em **Analise de Dados** para desenvolvimento pessoal
+- 📍 Campo Grande - MS
+
+---
+
+### 💼 Projetos em Destaque
+
+- 📦 [**LiteStock**](https://github.com/nicollasmartini/LiteStock) – Controle de estoque com foco em sustentabilidade 🌱
+- 🧠 [**EPA**](https://github.com/nicollasmartini/EPA) – Plataforma Estratégica para Gestão de Indicadores em Saúde
+
+---
+
+### 📊 Atualmente Aperfeiçoando
+
+- Python (automação, análise, APIs)
+- Banco de dados
+- Visualização de dados (Matplotlib, Power BI, Excel)
+- Desenvolvimento Web (HTML, CSS, JS)
+
+---
+
+### 📫 Como me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- 📧 nicollasmartini13@gmail.com
+- ☕ Sempre aberto para uma boa conversa sobre tecnologia e projetos colaborativos!
+
+---
+
+<p align="center">
+  
+</p>
