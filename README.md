@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Nicollas Martini 👋</h1>
 
 <p align="center">
-  🧠 Estudante de Tecnologia da Informação &emsp;|&emsp; 💻 Apaixonado por Desenvolvimento e Dados &emsp;|&emsp;
+  🧠 Gestor de Indicadores &emsp;|&emsp; 💻 Apaixonado por Desenvolvimento e Dados &emsp;|&emsp;
 </p>
 
 ---
